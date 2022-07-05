@@ -1,2 +1,2 @@
 # poll-request
-A website to help people run and manage polls
+An application to help people run and manage polls
